@@ -4,9 +4,6 @@
 
 A minimal, lightning-fast web app to generate custom QR codes for URLs, text, and contacts. Customize colors, add your own logo, and download in high resolution — all happening instantly in your browser.
 
-![QuickQR Screenshot](https://via.placeholder.com/1200x600/6366F1/FFFFFF?text=QuickQR+-+Smart+QR+Code+Generator)
-*(Note: Replace the URL above with an actual screenshot of your app once you take one!)*
-
 ![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)
 ![Styled with Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css)
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel)
@@ -32,6 +29,14 @@ A minimal, lightning-fast web app to generate custom QR codes for URLs, text, an
 
 ---
 
+## Screenshot
+
+<img src="https://github.com/user-attachments/assets/509042a6-f9ec-4a5d-9792-bfd0ec622c42" width="14%" alt="Screenshot of project" />
+<img src="https://github.com/user-attachments/assets/552b3369-b592-4115-84ab-aedefd679f79" width="14%" alt="Screenshot of project" />
+<img src="https://github.com/user-attachments/assets/62409278-49fe-41d3-b9f5-5372642a9f81" width="14%" alt="Screenshot of project" />
+<img src="https://github.com/user-attachments/assets/e7c6cb68-ec54-49d9-befd-ec14c4c9f7da" width="14%" alt="Screenshot of project" />
+
+---
 ## 🚀 How It Works
 
 ```text
