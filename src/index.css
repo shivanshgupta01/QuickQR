@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #6366F1;
+  --color-secondary: #F3F4F6;
+}
+
+@custom-variant dark (&:is(.dark *));
+
+body {
+  @apply bg-gray-50 text-gray-900 antialiased selection:bg-primary selection:text-white;
+}
+
+.dark body {
+  @apply bg-gray-900 text-gray-100;
+}
